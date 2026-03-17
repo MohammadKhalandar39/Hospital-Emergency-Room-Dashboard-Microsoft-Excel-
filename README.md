@@ -73,7 +73,8 @@ Certain demographics visit ER more frequently
 High-severity cases impact overall service time
 
 #  Dashboard
-![Dashboard](images/dashboard.png)
+<img width="943" height="577" alt="dashboard" src="https://github.com/user-attachments/assets/bc8d28d5-602e-44af-8ab6-27b0899553ed" />
+
 
 #  Average Wait Time Trend
 ![Average Wait Time Trend](images/avg-wait-time-trend.png)
