@@ -1,7 +1,7 @@
-#🏥 Hospital Emergency Room Data Analysis (Excel)
+# Hospital Emergency Room Data Analysis (Excel)
 
 
-##📑 Table of Contents
+# Table of Contents
 Overview
 Dataset
 Objectives
@@ -12,7 +12,7 @@ How to Use
 Key Insights
 Dashboard
 
-#📌 Overview
+# Overview
 This project focuses on analyzing hospital emergency room (ER) data using Microsoft Excel. It provides insights into patient flow, waiting times, and operational efficiency through dashboards, charts, and pivot tables.
 
 📂 Dataset
@@ -25,14 +25,14 @@ Waiting time
 Admission status
 Severity level of cases
 
-#🎯 Objectives
+# Objectives
 Track patient visit patterns 📈
 Analyze waiting times ⏱️
 Identify peak hours and busiest days 🕒
 Understand patient demographics 👥
 Improve hospital resource planning 🏥
 
-#🛠️ Tools Used
+# Tools Used
 Microsoft Excel
 power pivot
 Pivot Tables
@@ -41,7 +41,7 @@ Slicers & Filters
 Conditional Formatting
 Dashboards
 
-#📊 Features & Analysis
+# Features & Analysis
 
    📅 Daily & Monthly Trends – Patient inflow over time
    ⏳ Waiting Time Analysis – Average and maximum wait times
@@ -56,7 +56,7 @@ Dashboards
 │   └── ER_Analysis.xlsx
 └── README.md
 
-#🚀 How to Use
+# How to Use
 Open the Excel file:ER_Analysis.xlsx
 Navigate through:
     Dashboard sheet for summary insights
@@ -66,17 +66,17 @@ Use slicers/filters to:
     Filter by patient type or severity
     Explore specific trends
 
-#📌 Key Insights
+# Key Insights
 Peak ER visits occur during specific hours of the day
 Waiting times vary significantly based on patient volume
 Certain demographics visit ER more frequently
 High-severity cases impact overall service time
 
-# 📊 Dashboard
+#  Dashboard
 ![Dashboard](images/dashboard.png)
 
-# ⏱️ Average Wait Time Trend
+#  Average Wait Time Trend
 ![Average Wait Time Trend](images/avg-wait-time-trend.png)
 
-# 😊 Patient Satisfaction Trend
+#  Patient Satisfaction Trend
 ![Patient Satisfaction Trend](images/patient-satisfaction-trend.png)
