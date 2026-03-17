@@ -3,14 +3,23 @@
 
 # Table of Contents
 1.Overview
+
 2.Dataset
+
 3.Objectives
+
 4.Tools Used
+
 5.Features & Analysis
+
 6.Project Structure
+
 7.How to Use
+
 8.Key Insights
+
 9.Dashboard
+
 
 # Overview
 This project focuses on analyzing hospital emergency room (ER) data using Microsoft Excel. It provides insights into patient flow, waiting times, and operational efficiency through dashboards, charts, and pivot tables.
