@@ -76,10 +76,14 @@ High-severity cases impact overall service time
 <img width="943" height="577" alt="dashboard" src="https://github.com/user-attachments/assets/bc8d28d5-602e-44af-8ab6-27b0899553ed" />
 
 
-#  Average Wait Time Trend
-![Average Wait Time Trend](images/avg-wait-time-trend.png)
+#  Average Wait Time Daily Trend
+<img width="1425" height="630" alt="Average Wait Time Daliy Trend" src="https://github.com/user-attachments/assets/85fee1a6-94de-423a-a7db-195905830710" />
 
-#  Patient Satisfaction Trend
-![Patient Satisfaction Trend](images/patient-satisfaction-trend.png)
+
+#  Patient Satisfaction Daily Trend
+<img width="1440" height="612" alt="Patient Satisfaction Score Daily" src="https://github.com/user-attachments/assets/78f3f8cf-7dae-49e6-8e47-e61036d08bb7" />
+
+#  Daily No of Patients
+<img width="1420" height="627" alt="Daily No of Patients" src="https://github.com/user-attachments/assets/bc57c1d1-4004-4d36-8d9e-9a520b98ddea" />
 
 
