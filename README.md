@@ -1,16 +1,7 @@
 # Hospital Emergency Room Data Analysis (Excel)
 
-
-# Table of Contents  
-1.Overview  
-2.Dataset  
-3.Objectives  
-4.Tools Used  
-5.Features & Analysis  
-6.Project Structure  
-7.How to Use  
-8.Key Insights  
-9.Dashboard  
+This project was developed to strengthen and demonstrate practical skills in Microsoft Excel for data analysis and dashboard creation.
+The main focus was to utilize Excel tools to transform raw hospital emergency room data into meaningful insights through structured analysis and visualization.
 
 ## 📑 Table of Contents
 
