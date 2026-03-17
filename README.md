@@ -19,7 +19,7 @@ The main focus was to utilize Excel tools to transform raw hospital emergency ro
 This project focuses on analyzing hospital emergency room (ER) data using Microsoft Excel. It provides insights into patient flow, waiting times, and operational efficiency through dashboards, charts, and pivot tables.
 
 ## Dataset
-File: Hospital Emergency Room Data.csv
+File: https://github.com/MohammadKhalandar39/Hospital-Emergency-Room-Dashboard-Microsoft-Excel-
 
 ##The dataset includes:  
   -Patient details (age, gender, etc.)  
@@ -36,13 +36,13 @@ Understand patient demographics 👥
 Improve hospital resource planning 🏥  
 
 ## Tools Used  
-Microsoft Excel  
-power pivot  
-Pivot Tables  
-Pivot Charts  
-Slicers & Filters  
-Conditional Formatting  
-Dashboards  
+- Microsoft Excel  
+- power pivot  
+- Pivot Tables  
+- Pivot Charts  
+- Slicers & Filters  
+- Conditional Formatting  
+- Dashboards  
 
 ## Features & Analysis  
    📅 Daily & Monthly Trends – Patient inflow over time  
@@ -69,10 +69,10 @@ Use slicers/filters to:
     Explore specific trends  
 
 ## Key Insights  
-Peak ER visits occur during specific hours of the day  
-Waiting times vary significantly based on patient volume  
-Certain demographics visit ER more frequently  
-High-severity cases impact overall service time  
+- Peak ER visits occur during specific hours of the day  
+- Waiting times vary significantly based on patient volume  
+- Certain demographics visit ER more frequently  
+- High-severity cases impact overall service time  
 
 ## Dashboard
 <img width="943" height="577" alt="dashboard" src="https://github.com/user-attachments/assets/bc8d28d5-602e-44af-8ab6-27b0899553ed" />
