@@ -20,13 +20,15 @@ This project focuses on analyzing hospital emergency room (ER) data using Micros
 
 ## Dataset
 File: https://github.com/MohammadKhalandar39/Hospital-Emergency-Room-Dashboard-Microsoft-Excel-
+## Dataset
+[View Dataset](https://github.com/MohammadKhalandar39/Hospital-Emergency-Room-Dashboard-Microsoft-Excel-)
 
-##The dataset includes:  
-  -Patient details (age, gender, etc.)  
-  -Visit date and time  
-  -Waiting time  
-  -Admission status  
-  -Severity level of cases  
+## The dataset includes:  
+  - Patient details (age, gender, etc.)  
+  - Visit date and time  
+  - Waiting time  
+  - Admission status  
+  - Severity level of cases  
 
 ## Objectives  
 Track patient visit patterns 📈  
@@ -59,7 +61,7 @@ Improve hospital resource planning 🏥
 └── README.md  
 
 ## How to Use  
-Open the Excel file:ER_Analysis.xlsx  
+Open the Excel file: ER_Analysis.xlsx  
 Navigate through:  
     Dashboard sheet for summary insights  
     Pivot Tables sheet for detailed analysis  
