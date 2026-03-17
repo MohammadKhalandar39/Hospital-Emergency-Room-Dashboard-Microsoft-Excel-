@@ -19,8 +19,6 @@ The main focus was to utilize Excel tools to transform raw hospital emergency ro
 This project focuses on analyzing hospital emergency room (ER) data using Microsoft Excel. It provides insights into patient flow, waiting times, and operational efficiency through dashboards, charts, and pivot tables.
 
 ## Dataset
-File: https://github.com/MohammadKhalandar39/Hospital-Emergency-Room-Dashboard-Microsoft-Excel-
-## Dataset
 [View Dataset](https://github.com/MohammadKhalandar39/Hospital-Emergency-Room-Dashboard-Microsoft-Excel-)
 
 ## The dataset includes:  
