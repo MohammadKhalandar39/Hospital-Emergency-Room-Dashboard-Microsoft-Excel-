@@ -48,28 +48,28 @@ Dashboards
    🕐 Peak Hour Detection  
    👨‍👩‍👧 Demographic Insights  
 
-#📁 Project Structure
-├── data/
-│   └── Hospital Emergency Room Data.csv
-├── excel/
-│   └── ER_Analysis.xlsx
-└── README.md
+#📁 Project Structure  
+├── data/  
+│   └── Hospital Emergency Room Data.csv  
+├── excel/  
+│   └── ER_Analysis.xlsx  
+└── README.md  
 
-# How to Use
-Open the Excel file:ER_Analysis.xlsx
-Navigate through:
-    Dashboard sheet for summary insights
-    Pivot Tables sheet for detailed analysis
-Use slicers/filters to:
-    Select date ranges
-    Filter by patient type or severity
-    Explore specific trends
+# How to Use  
+Open the Excel file:ER_Analysis.xlsx  
+Navigate through:  
+    Dashboard sheet for summary insights  
+    Pivot Tables sheet for detailed analysis  
+Use slicers/filters to:  
+    Select date ranges  
+    Filter by patient type or severity  
+    Explore specific trends  
 
-# Key Insights
-Peak ER visits occur during specific hours of the day
-Waiting times vary significantly based on patient volume
-Certain demographics visit ER more frequently
-High-severity cases impact overall service time
+# Key Insights  
+Peak ER visits occur during specific hours of the day  
+Waiting times vary significantly based on patient volume  
+Certain demographics visit ER more frequently  
+High-severity cases impact overall service time  
 
 #  Dashboard
 <img width="943" height="577" alt="dashboard" src="https://github.com/user-attachments/assets/bc8d28d5-602e-44af-8ab6-27b0899553ed" />
