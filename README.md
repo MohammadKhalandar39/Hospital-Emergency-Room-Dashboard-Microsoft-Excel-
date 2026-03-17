@@ -28,11 +28,11 @@ This project focuses on analyzing hospital emergency room (ER) data using Micros
 File: Hospital Emergency Room Data.csv
 
 ##The dataset includes:
-  -Patient details (age, gender, etc.)
-  -Visit date and time
-  -Waiting time
-  -Admission status
-  -Severity level of cases
+  -Patient details (age, gender, etc.)  
+  -Visit date and time  
+  -Waiting time  
+  -Admission status  
+  -Severity level of cases  
 
 # Objectives
 Track patient visit patterns 📈
