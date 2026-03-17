@@ -80,3 +80,6 @@ High-severity cases impact overall service time
 
 #  Patient Satisfaction Trend
 ![Patient Satisfaction Trend](images/patient-satisfaction-trend.png)
+
+#  Daily No.of Patients
+![Daily No.of Patients](image/Daily-No.of-Patients.png).
