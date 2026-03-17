@@ -1,25 +1,16 @@
 # Hospital Emergency Room Data Analysis (Excel)
 
 
-# Table of Contents
-1.Overview
-
-2.Dataset
-
-3.Objectives
-
-4.Tools Used
-
-5.Features & Analysis
-
-6.Project Structure
-
-7.How to Use
-
-8.Key Insights
-
-9.Dashboard
-
+# Table of Contents  
+1.Overview  
+2.Dataset  
+3.Objectives  
+4.Tools Used  
+5.Features & Analysis  
+6.Project Structure  
+7.How to Use  
+8.Key Insights  
+9.Dashboard  
 
 # Overview
 This project focuses on analyzing hospital emergency room (ER) data using Microsoft Excel. It provides insights into patient flow, waiting times, and operational efficiency through dashboards, charts, and pivot tables.
@@ -27,36 +18,35 @@ This project focuses on analyzing hospital emergency room (ER) data using Micros
 # Dataset
 File: Hospital Emergency Room Data.csv
 
-##The dataset includes:
+##The dataset includes:  
   -Patient details (age, gender, etc.)  
   -Visit date and time  
   -Waiting time  
   -Admission status  
   -Severity level of cases  
 
-# Objectives
-Track patient visit patterns 📈
-Analyze waiting times ⏱️
-Identify peak hours and busiest days 🕒
-Understand patient demographics 👥
-Improve hospital resource planning 🏥
+# Objectives  
+Track patient visit patterns 📈  
+Analyze waiting times ⏱️  
+Identify peak hours and busiest days 🕒  
+Understand patient demographics 👥  
+Improve hospital resource planning 🏥  
 
-# Tools Used
-Microsoft Excel
-power pivot
-Pivot Tables
-Pivot Charts
-Slicers & Filters
-Conditional Formatting
-Dashboards
+# Tools Used  
+Microsoft Excel  
+power pivot  
+Pivot Tables  
+Pivot Charts  
+Slicers & Filters  
+Conditional Formatting  
+Dashboards  
 
-# Features & Analysis
-
-   📅 Daily & Monthly Trends – Patient inflow over time
-   ⏳ Waiting Time Analysis – Average and maximum wait times
-   🚑 Case Severity Distribution
-   🕐 Peak Hour Detection
-   👨‍👩‍👧 Demographic Insights
+# Features & Analysis  
+   📅 Daily & Monthly Trends – Patient inflow over time  
+   ⏳ Waiting Time Analysis – Average and maximum wait times  
+   🚑 Case Severity Distribution  
+   🕐 Peak Hour Detection  
+   👨‍👩‍👧 Demographic Insights  
 
 #📁 Project Structure
 ├── data/
